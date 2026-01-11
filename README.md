@@ -19,3 +19,4 @@ Daily bite-sized notes on DevOps tools, practices, commands, and real-world work
 | Day | Topic |
 |------|-------|
 | 1 | Linux Basics |
+| 2 | Linux Permissions, Users & Groups |
