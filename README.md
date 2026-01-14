@@ -20,3 +20,4 @@ Daily bite-sized notes on DevOps tools, practices, commands, and real-world work
 |------|-------|
 | 1 | Linux Basics |
 | 2 | Linux Permissions, Users & Groups |
+| 3 | Searching, Filters, Pipes & Redirection |
