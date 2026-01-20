@@ -22,3 +22,4 @@ Daily bite-sized notes on DevOps tools, practices, commands, and real-world work
 | 2 | Linux Permissions, Users & Groups |
 | 3 | Searching, Filters, Pipes & Redirection |
 | 4 | Linux System Monitoring |
+| 5 | Linux Networking Basics |
