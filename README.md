@@ -23,3 +23,4 @@ Daily bite-sized notes on DevOps tools, practices, commands, and real-world work
 | 3 | Searching, Filters, Pipes & Redirection |
 | 4 | Linux System Monitoring |
 | 5 | Linux Networking Basics |
+| 6 | Linux Package Management & Services |
