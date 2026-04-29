@@ -25,3 +25,4 @@ Daily bite-sized notes on DevOps tools, practices, commands, and real-world work
 | 5 | Linux Networking Basics |
 | 6 | Linux Package Management & Services |
 | 7 | Shell Scripting Basics |
+| 8 | Advanced Bash Cron |
