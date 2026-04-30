@@ -44,8 +44,7 @@
 ├── .gitignore
 ├── README.md
 ├── repo-structure.md
-├── repo_structure.md
 ├── secure.txt
 └── update-structure.sh
 
-10 directories, 39 files
+10 directories, 38 files
