@@ -39,6 +39,8 @@
 │   ├── cron-jobs.md
 │   ├── notes.md
 │   └── README.md
+├── day-09-git-github
+│   └── notes.md
 ├── .gitignore
 ├── README.md
 ├── repo-structure.md
@@ -46,4 +48,4 @@
 ├── secure.txt
 └── update-structure.sh
 
-9 directories, 38 files
+10 directories, 39 files
