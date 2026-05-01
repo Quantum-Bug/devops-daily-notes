@@ -41,10 +41,12 @@
 │   └── README.md
 ├── day-09-git-github
 │   └── notes.md
+├── day-10-advanced-git
+│   └── notes.md
 ├── .gitignore
 ├── README.md
 ├── repo-structure.md
 ├── secure.txt
 └── update-structure.sh
 
-10 directories, 38 files
+11 directories, 39 files

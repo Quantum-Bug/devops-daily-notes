@@ -27,3 +27,4 @@ Daily bite-sized notes on DevOps tools, practices, commands, and real-world work
 | 7 | Shell Scripting Basics |
 | 8 | Advanced Bash Cron |
 | 9 | Git & Github |
+|10 | Advanced Git |
