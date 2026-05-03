@@ -43,10 +43,12 @@
 │   └── notes.md
 ├── day-10-advanced-git
 │   └── notes.md
+├── day-11-docker-basics
+│   └── notes.md
 ├── .gitignore
 ├── README.md
 ├── repo-structure.md
 ├── secure.txt
 └── update-structure.sh
 
-11 directories, 39 files
+12 directories, 40 files
