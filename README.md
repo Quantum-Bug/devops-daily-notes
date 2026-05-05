@@ -28,3 +28,5 @@ Daily bite-sized notes on DevOps tools, practices, commands, and real-world work
 | 8 | Advanced Bash Cron |
 | 9 | Git & Github |
 |10 | Advanced Git |
+|11 | Docker Basics |
+|12 | Docker Images & Dockerfile |

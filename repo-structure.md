@@ -45,10 +45,17 @@
 │   └── notes.md
 ├── day-11-docker-basics
 │   └── notes.md
+├── day-12-docker-images-dockerfile
+│   ├── app
+│   │   └── index.html
+│   ├── commands.md
+│   ├── Dockerfile
+│   ├── notes.md
+│   └── README.md
 ├── .gitignore
 ├── README.md
 ├── repo-structure.md
 ├── secure.txt
 └── update-structure.sh
 
-12 directories, 40 files
+14 directories, 45 files
